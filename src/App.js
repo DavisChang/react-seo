@@ -11,7 +11,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <First desc="Hello First Component" />
+        <First desc="Hello First Component" desc2="test2" />
       </header>
     </div>
   );
