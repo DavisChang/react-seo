@@ -4,6 +4,21 @@
 ### `npm run build`
 ### `serve -s build`
 
+## Bit
+
+Use Bit to share component, open [https://docs.bit.dev/docs/quick-start](https://docs.bit.dev/docs/quick-start) for more details.
+
+### `npm install bit-bin -g`
+### `bit init`
+### `bit --version`
+### `bit login`
+### `bit import`
+### `bit import bit.envs/compilers/react --compiler`
+### `bit build`
+### `bit export <username>.<collection-name>`
+### `bit checkout 0.0.2 first`
+### `bit list`
+
 ## Available Scripts
 
 In the project directory, you can run:
